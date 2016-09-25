@@ -1,0 +1,14 @@
+
+.CodeMirror {
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}
+
+.notepad {
+	margin-top:12%;
+	margin-left:0%;
+}
+
+#docIdDiv {
+	margin-bottm: 5%;
+}
